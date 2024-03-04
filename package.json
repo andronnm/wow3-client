@@ -1,0 +1,25 @@
+{
+  "name": "wow3-client",
+  "version": "0.1.1",
+  "description": "Client-side code for interacting with the w0rld0fweb3 game engine",
+  "main": "wow3-client.js",
+  "scripts": {
+    "start": "node wow3-client.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andronnm/wow3-client.git"
+  },
+  "keywords": [
+    "web3",
+    "client",
+    "game"
+  ],
+  "author": "andronnm",
+  "license": "MIT",
+  "dependencies": {
+    "w0rld0fweb3": "^0.1.0",
+    "wow3-client": "^0.1.0",
+    "axios": "^0.24.0"
+  }
+}
